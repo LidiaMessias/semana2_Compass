@@ -1,0 +1,43 @@
+body {
+    background-color:bisque;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding: 50px;
+}
+
+h1 {
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 20px;
+    margin-bottom: 35px;
+}
+
+input[type="number"] {
+    font-size: 20px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: 1px solid gray;
+}
+
+button {
+    font-size: 20px;
+    background-color: cornflowerblue;
+    color: #ffffff;
+    border: none;
+    margin-left: 10px;
+    padding: 5px 30px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#message {
+    color: cornflowerblue;
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-top: 20px;
+    padding: 20px;
+}
